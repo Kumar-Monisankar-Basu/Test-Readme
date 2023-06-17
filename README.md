@@ -6,7 +6,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I opensource stuff and break things :rofl:<br>
+This is the place where I opensource stuff and break things :rofl:
+
+<br>
 🔭 I’m Currently Working On Machine Learning<br>👯 I’m Looking To Collaborate On Machine-Learning & NLP Projects<br>🌱 I’m Currently Learning Robotics & LLM<br>💬 Ask Me About Machine-Learning & Deep-Learning<br>⚡ Fun Fact I Love Phuchka <br>📞 Contact : mlcodingwizard@gmail.com
 
 ### :page_with_curl: I'm Currently Learning:
