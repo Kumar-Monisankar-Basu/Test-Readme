@@ -9,6 +9,10 @@
 This is the place where I opensource stuff and break things :rofl:<br>
 🔭 I’m Currently Working On Machine Learning<br>👯 I’m Looking To Collaborate On Machine-Learning & NLP Projects<br>🌱 I’m Currently Learning Robotics & LLM<br>💬 Ask Me About Machine-Learning & Deep-Learning<br>⚡ Fun Fact I Love Phuchka <br>📞 Contact : mlcodingwizard@gmail.com
 
+### :page_with_curl: I'm Currently Learning:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
 
