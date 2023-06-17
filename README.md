@@ -5,6 +5,13 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Kumar Monisankar Basu! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is the place where I opensource stuff and break things :rofl:<br>
+🔭 I’m Currently Working On Machine Learning<br>👯 I’m Looking To Collaborate On Machine-Learning & NLP Projects<br>🌱 I’m Currently Learning Robotics & LLM<br>💬 Ask Me About Machine-Learning & Deep-Learning<br>⚡ Fun Fact I Love Phuchka <br>📞 Contact : mlcodingwizard@gmail.com
+
+
+
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -29,8 +36,6 @@ const Kumar = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
-
 
 
 
