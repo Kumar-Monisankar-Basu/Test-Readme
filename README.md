@@ -40,6 +40,18 @@ This is the place where I opensource stuff and break things :rofl:
 
 <br>
 
+<td valign="top" width="50%">
+
+#### 🏊‍♂️ Weekly Development Breakdown
+
+![light](https://raw.githubusercontent.com/Kumar-Monisankar-Basu/Test-Readme/main/wakatime_weekly_language_stats.svg#gh-light-mode-only)
+
+![dark](https://raw.githubusercontent.com/Kumar-Monisankar-Basu/Test-Readme/main/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
+
+</td>
+
+<br>
+
 <!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
