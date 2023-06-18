@@ -42,9 +42,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 
 
-<details>
+<!--<details>-->
 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
+  <!--<summary>-->  <!--</summary>-->
+<h1>📊 Github Stats and Activity</h1>
+ 
 
   <h3>🔥 Streak Stats</h3>
 
@@ -69,7 +71,7 @@ This is the place where I opensource stuff and break things :rofl:
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Kumar-Monisankar-Basu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Kumar-Monisankar-Basu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-</details>
+<!--</details>-->
 
 <br>
 
