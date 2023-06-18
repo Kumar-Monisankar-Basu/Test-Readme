@@ -2,6 +2,11 @@
   <img src="https://raw.githubusercontent.com/Kumar-Monisankar-Basu/Test-Readme/main/name.svg" alt="Marton Lederer" />
 </h1>
 
+<h2 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00A4&center=true&vCenter=true&width=435&lines=Hey%2C+welcome+to+my+page!;+I'm+a+passionate+Python+developer+;+specializing+in+Machine+Learning+" alt="Typing SVG" /></a>
+</h2>
+
+
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Kumar Monisankar Basu! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -33,9 +38,9 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-<br/>
+<br>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -53,7 +58,7 @@ This is the place where I opensource stuff and break things :rofl:
     </a>
   </div>
   
-  <br><br><br>
+  <br><br><br> -->
 
 ### 🏆 Dooboo lab's github stats
 <a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=Kumar-Monisankar-Basu" width="600" /></a>
